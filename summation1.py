@@ -7,3 +7,13 @@ def summation(a, b):
 a = summation(1, 100)
 b = summation(1,500)
 print a, b
+
+valia = "Moqta Valia"
+krasiva = True
+
+if krasiva:
+    print valia
+else:
+    print "Ne moje da byde!!!!"
+
+
