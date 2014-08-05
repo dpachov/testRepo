@@ -5,4 +5,5 @@ def summation(a, b):
   return total
 
 a = summation(1, 100)
-print a
+b = summation(1,500)
+print a, b
